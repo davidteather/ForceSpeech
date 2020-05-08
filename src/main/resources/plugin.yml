@@ -1,0 +1,13 @@
+name: ForceSpeech
+version: ${project.version}
+main: com.dteather.forcespeech.ForceSpeech
+api-version: 1.13
+authors: [David_Teather]
+description: This is a plugin that allows a user to force another user to say something.
+website: dteather.com
+commands:
+  forcespeech:
+    description: Forces a player to say something
+    usage: /<command> <player> <message>
+    permission: forcespeech.forcespeech
+    permission-message: You do not have permission to force someone to say something.
