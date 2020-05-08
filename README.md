@@ -3,7 +3,7 @@ Minecraft plugin to fake that someone is saying something.
 
 ## Command
 
-/forcespeech <player> <message>
+/forcespeech player message
 
 ## Permissions
 
